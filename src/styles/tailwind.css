@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.flex {
+    flex: 1;
+}
+
+.flex1 {
+    background-color: green;
+}
+
+.flex2 {
+    background-color: red;
+}
