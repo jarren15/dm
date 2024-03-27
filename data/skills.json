@@ -1,0 +1,59 @@
+[
+    {
+        "label": "Content Creation",
+        "icon": "faFilm"
+    },
+    {
+        "label": "Email Marketing",
+        "icon": "faEnvelope"
+    },
+    {
+        "label": "Graphic Design",
+        "icon": "faPenNib"
+    },
+    {
+        "label": "Photo Editing",
+        "icon": "faImage"
+    },
+    {
+        "label": "Email Management",
+        "icon": "faListCheck"
+    },
+    {
+        "label": "Ads Monitoring",
+        "icon": "faRectangleAd"
+    },
+    {
+        "label": "Social Media Management",
+        "icon": "faHashtag"
+    },
+
+    {
+        "label": "Technical Writing",
+        "icon": "faParagraph"
+    },
+    {
+        "label": "Business Correspondence",
+        "icon": "faBusinessTime"
+    },
+    {
+        "label": "Secretarial Duties",
+        "icon": "faHandshakeAngle"
+    },
+    {
+        "label": "Handling Customer's Concerns",
+        "icon": "faPeopleGroup"
+    },
+    {
+        "label": "Research",
+        "icon": "faMagnifyingGlass"
+    },
+    {
+        "label": "Video EditingVideo Editing",
+        "icon": "faVideo"
+    },
+    {
+        "label": "Data Management",
+        "icon": "faTable"
+    }
+]

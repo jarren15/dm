@@ -12,14 +12,22 @@
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "email-dev": "email dev"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^5.0.12",
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
     "@fortawesome/free-brands-svg-icons": "^6.5.1",
     "@fortawesome/free-regular-svg-icons": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mui/icons-material": "^5.15.14",
+    "@mui/lab": "^5.0.0-alpha.169",
+    "@mui/material": "^5.15.14",
+    "@react-email/components": "0.0.15",
     "@react-spring/web": "^9.7.3",
     "classnames": "^2.5.1",
     "gatsby": "^5.13.3",
@@ -33,10 +41,14 @@
     "gatsby-source-sanity": "^7.9.1",
     "gatsby-source-wordpress": "^7.13.3",
     "gatsby-transformer-sharp": "^5.13.1",
+    "lodash": "^4.17.21",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-email": "2.1.0",
     "react-player": "^2.15.1",
+    "resend": "^3.2.0",
     "sass": "^1.71.1",
+    "swiper": "^11.0.7",
     "uuid": "^9.0.1"
   },
   "devDependencies": {

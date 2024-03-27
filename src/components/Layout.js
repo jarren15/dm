@@ -1,11 +1,11 @@
 import React from 'react'
 import Header from './Header'
 
-export const Layout = ({children}) => {
+export const Layout = ({children, location}) => {
   return (
     <>
-        <Header />
-        <main>
+        <Header location={location} />
+        <main className='leading-loose'>
             {children}
         </main>
     </>
